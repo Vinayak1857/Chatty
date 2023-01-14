@@ -62,9 +62,3 @@ bot.variables({
   money: 0,
   chatbotChannel: "",
 });
-
-const keepAlive = require("./server");
-
-
-
-keepAlive();
